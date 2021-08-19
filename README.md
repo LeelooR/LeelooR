@@ -1,16 +1,18 @@
-### Hi there 👋
+## Welcome to my space 👋
 
-<!--
-**LeelooR/LeelooR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my part of GitHub where I share and work on most of my software development.
 
-Here are some ideas to get you started:
+### Collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for people who are keen to collaborate on the Go toolkit and GUI capabilities for Python in general.
+
+### Sponsorship
+
+As I am an independent, unpaid, open source developer I rely on the generosity of my sponsors to pay the bills.
+If you like my work please consider [sponsoring me](https://github.com/sponsors/LeelooR).
+
+Thank you so much ❤️!
+
+### Some statistics
+
+![](https://github-profile-trophy.vercel.app/?username=LeelooR&column=8&theme=nord)
